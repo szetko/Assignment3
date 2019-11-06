@@ -1,4 +1,4 @@
-M ubuntu:16.04
+FROM ubuntu:16.04
 # Dockerfiles always start with a FROM statement that specifies the base image type from which this container is built.
 
 LABEL maintainer="<your name/email address>"
